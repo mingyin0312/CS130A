@@ -1,0 +1,83 @@
+The first level hash matrix is:
+
+01011
+11001
+11011
+11100
+
+The second level hash matrix is: 
+
+NULL
+
+NULL
+
+NULL
+
+NULL
+
+NULL
+
+NULL
+
+NULL
+
+NULL
+
+NULL
+
+01011
+11001
+
+
+NULL
+
+01011
+11001
+
+
+01011
+11001
+
+
+NULL
+
+NULL
+
+NULL
+
+The total space used:28
+
+Number of visit needed for every data:
+
+Number of visit needed for 1-th data: 1
+
+Number of visit needed for 2-th data: 1
+
+Number of visit needed for 3-th data: 2
+
+Number of visit needed for 4-th data: 2
+
+Number of visit needed for 5-th data: 1
+
+Number of visit needed for 6-th data: 2
+
+Number of visit needed for 7-th data: 1
+
+Number of visit needed for 8-th data: 1
+
+Number of visit needed for 9-th data: 1
+
+Number of visit needed for 10-th data: 1
+
+Number of visit needed for 11-th data: 1
+
+Number of visit needed for 12-th data: 1
+
+Number of visit needed for 13-th data: 2
+
+Number of visit needed for 14-th data: 2
+
+Number of visit needed for 15-th data: 1
+
+Number of visit needed for 16-th data: 2
+
